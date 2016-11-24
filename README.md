@@ -11,7 +11,7 @@ Testing the "Get Location" functionality
 ========================================
 1. Once the application starts running and the service is connected, click on the "Get Location" button. 
 2. Click the "More" button on the toolbar next to the emulator
-![alt text](http://i.imgur.com/ngpim92.png | width=48)
+![alt text](http://i.imgur.com/ngpim92.png | width="48")
 2. Change your location in settings (give random coordinates) or use a mock location app on the physical device.
 
 Whenever the location is changed, the application will show the new coordinates.
